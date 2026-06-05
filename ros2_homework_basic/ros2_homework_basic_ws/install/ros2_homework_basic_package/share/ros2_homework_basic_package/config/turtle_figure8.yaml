@@ -1,0 +1,7 @@
+#通过.yaml文件固定参数，后续可直接在这里修改
+turtle_figure8:
+  ros__parameters:
+  
+    linear_speed: 2.0
+
+    angular_speed: 2.0
