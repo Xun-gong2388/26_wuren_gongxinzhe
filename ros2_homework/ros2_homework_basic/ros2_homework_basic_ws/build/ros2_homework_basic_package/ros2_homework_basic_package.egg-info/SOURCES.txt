@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/ros2_homework_basic_package/ros2_homework_basic_package.egg-info/PKG-INFO
+../../build/ros2_homework_basic_package/ros2_homework_basic_package.egg-info/SOURCES.txt
+../../build/ros2_homework_basic_package/ros2_homework_basic_package.egg-info/dependency_links.txt
+../../build/ros2_homework_basic_package/ros2_homework_basic_package.egg-info/entry_points.txt
+../../build/ros2_homework_basic_package/ros2_homework_basic_package.egg-info/requires.txt
+../../build/ros2_homework_basic_package/ros2_homework_basic_package.egg-info/top_level.txt
+../../build/ros2_homework_basic_package/ros2_homework_basic_package.egg-info/zip-safe
+config/turtle_figure8.yaml
+launch/turtle_figure8.launch.py
+resource/ros2_homework_basic_package
+ros2_homework_basic_package/__init__.py
+ros2_homework_basic_package/turtle_figure8.py

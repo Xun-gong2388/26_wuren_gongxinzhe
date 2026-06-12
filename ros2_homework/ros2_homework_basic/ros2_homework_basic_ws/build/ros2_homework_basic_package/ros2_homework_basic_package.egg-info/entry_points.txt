@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_figure8 = ros2_homework_basic_package.turtle_figure8:main
+
