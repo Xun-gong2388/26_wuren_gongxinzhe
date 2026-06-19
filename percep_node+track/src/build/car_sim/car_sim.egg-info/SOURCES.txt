@@ -1,0 +1,17 @@
+bridge.yaml
+package.xml
+setup.cfg
+setup.py
+car_sim/__init__.py
+car_sim.egg-info/PKG-INFO
+car_sim.egg-info/SOURCES.txt
+car_sim.egg-info/dependency_links.txt
+car_sim.egg-info/entry_points.txt
+car_sim.egg-info/requires.txt
+car_sim.egg-info/top_level.txt
+car_sim.egg-info/zip-safe
+config/car_sim.rviz
+launch/car_sim_rviz.launch.py
+launch/sim_bringup.launch.py
+resource/car_sim
+urdf/car_sim.xacro

@@ -1,0 +1,17 @@
+[0.422s] Invoking command in '/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim': PYTHONPATH=/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/build --no-deps symlink_data
+[0.553s] running develop
+[0.621s] running egg_info
+[0.621s] writing car_sim.egg-info/PKG-INFO
+[0.621s] writing dependency_links to car_sim.egg-info/dependency_links.txt
+[0.621s] writing entry points to car_sim.egg-info/entry_points.txt
+[0.621s] writing requirements to car_sim.egg-info/requires.txt
+[0.621s] writing top-level names to car_sim.egg-info/top_level.txt
+[0.622s] reading manifest file 'car_sim.egg-info/SOURCES.txt'
+[0.623s] writing manifest file 'car_sim.egg-info/SOURCES.txt'
+[0.624s] running build_ext
+[0.624s] Creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/lib/python3.10/site-packages/car-sim.egg-link (link to .)
+[0.624s] 
+[0.625s] Installed /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim
+[0.625s] running symlink_data
+[0.625s] error: can't copy '/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/launch/car_sim_gazebo.gzlaunch': doesn't exist or not a regular file
+[0.640s] Invoked command in '/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim' returned '1': PYTHONPATH=/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/build --no-deps symlink_data

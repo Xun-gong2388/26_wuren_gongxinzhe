@@ -1,0 +1,24 @@
+[0.433s] Invoking command in '/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception': PYTHONPATH=/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception/build --no-deps symlink_data
+[0.578s] running develop
+[0.647s] running egg_info
+[0.647s] creating sim_perception.egg-info
+[0.647s] writing sim_perception.egg-info/PKG-INFO
+[0.647s] writing dependency_links to sim_perception.egg-info/dependency_links.txt
+[0.647s] writing entry points to sim_perception.egg-info/entry_points.txt
+[0.648s] writing requirements to sim_perception.egg-info/requires.txt
+[0.648s] writing top-level names to sim_perception.egg-info/top_level.txt
+[0.648s] writing manifest file 'sim_perception.egg-info/SOURCES.txt'
+[0.649s] reading manifest file 'sim_perception.egg-info/SOURCES.txt'
+[0.649s] writing manifest file 'sim_perception.egg-info/SOURCES.txt'
+[0.650s] running build_ext
+[0.650s] Creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/lib/python3.10/site-packages/sim-perception.egg-link (link to .)
+[0.650s] Installing sim_node script to /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/lib/sim_perception
+[0.650s] 
+[0.650s] Installed /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception
+[0.650s] running symlink_data
+[0.651s] creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/share/ament_index
+[0.651s] creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/share/ament_index/resource_index
+[0.651s] creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/share/ament_index/resource_index/packages
+[0.651s] symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception/resource/sim_perception -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/share/ament_index/resource_index/packages
+[0.651s] symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception/package.xml -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/share/sim_perception
+[0.669s] Invoked command in '/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception' returned '0': PYTHONPATH=/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception/build --no-deps symlink_data

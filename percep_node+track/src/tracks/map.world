@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<sdf version="1.9">
+  <world name="map">
+
+    <plugin filename="gz-sim-sensors-system" name="gz::sim::systems::Sensors"/>
+
+    <include>
+      <uri>model://shixi</uri>
+      <pose>0 0 0 0 0 0</pose>
+    </include>
+    <include>
+     <uri>file:///home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/car_sim/urdf/car_sim.sdf</uri>
+     <name>shixi_car</name>
+     <pose> 0   -15   0.06   0    0   1.5708</pose>
+    </include> 
+  </world>
+</sdf>
+<!--运行命令：
+export GZ_SIM_RESOURCE_PATH=$(pwd)/models:$GZ_SIM_RESOURCE_PATH
+gz sim map.world
+-->

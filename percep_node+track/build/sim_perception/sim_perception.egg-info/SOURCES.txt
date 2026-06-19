@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+resource/sim_perception
+sim_perception/__init__.py
+sim_perception/sim_node.py
+sim_perception.egg-info/PKG-INFO
+sim_perception.egg-info/SOURCES.txt
+sim_perception.egg-info/dependency_links.txt
+sim_perception.egg-info/entry_points.txt
+sim_perception.egg-info/not-zip-safe
+sim_perception.egg-info/requires.txt
+sim_perception.egg-info/top_level.txt
+sim_perception/pyarmor_runtime_000000/__init__.py
+sim_perception/pyarmor_runtime_000000/pyarmor_runtime.so

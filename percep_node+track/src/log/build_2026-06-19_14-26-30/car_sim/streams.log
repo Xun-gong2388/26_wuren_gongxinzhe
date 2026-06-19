@@ -1,0 +1,32 @@
+[0.399s] Invoking command in '/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim': PYTHONPATH=/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/build --no-deps symlink_data
+[0.519s] running develop
+[0.579s] running egg_info
+[0.579s] creating car_sim.egg-info
+[0.580s] writing car_sim.egg-info/PKG-INFO
+[0.580s] writing dependency_links to car_sim.egg-info/dependency_links.txt
+[0.580s] writing entry points to car_sim.egg-info/entry_points.txt
+[0.580s] writing requirements to car_sim.egg-info/requires.txt
+[0.580s] writing top-level names to car_sim.egg-info/top_level.txt
+[0.580s] writing manifest file 'car_sim.egg-info/SOURCES.txt'
+[0.581s] reading manifest file 'car_sim.egg-info/SOURCES.txt'
+[0.581s] writing manifest file 'car_sim.egg-info/SOURCES.txt'
+[0.581s] running build_ext
+[0.581s] Creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/lib/python3.10/site-packages/car-sim.egg-link (link to .)
+[0.582s] 
+[0.582s] Installed /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim
+[0.582s] running symlink_data
+[0.582s] creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/ament_index
+[0.582s] creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/ament_index/resource_index
+[0.582s] creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/ament_index/resource_index/packages
+[0.582s] symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/resource/car_sim -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/ament_index/resource_index/packages
+[0.582s] symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/package.xml -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/car_sim
+[0.582s] creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/car_sim/launch
+[0.583s] symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/launch/sim_bringup.launch.py -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/car_sim/launch
+[0.583s] symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/launch/car_sim_rviz.launch.py -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/car_sim/launch
+[0.583s] symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/launch/car_sim_gazebo.gzlaunch -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/car_sim/launch
+[0.583s] creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/car_sim/urdf
+[0.583s] symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/urdf/car_sim.xacro -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/car_sim/urdf
+[0.583s] creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/car_sim/config
+[0.583s] symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/config/car_sim.rviz -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/car_sim/config
+[0.583s] symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/bridge.yaml -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/share/car_sim
+[0.596s] Invoked command in '/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim' returned '0': PYTHONPATH=/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/install/car_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/src/build/car_sim/build --no-deps symlink_data

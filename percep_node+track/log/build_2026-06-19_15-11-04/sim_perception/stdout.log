@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating sim_perception.egg-info
+writing sim_perception.egg-info/PKG-INFO
+writing dependency_links to sim_perception.egg-info/dependency_links.txt
+writing entry points to sim_perception.egg-info/entry_points.txt
+writing requirements to sim_perception.egg-info/requires.txt
+writing top-level names to sim_perception.egg-info/top_level.txt
+writing manifest file 'sim_perception.egg-info/SOURCES.txt'
+reading manifest file 'sim_perception.egg-info/SOURCES.txt'
+writing manifest file 'sim_perception.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/lib/python3.10/site-packages/sim-perception.egg-link (link to .)
+Installing sim_node script to /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/lib/sim_perception
+
+Installed /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception
+running symlink_data
+creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/share/ament_index
+creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/share/ament_index/resource_index
+creating /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/share/ament_index/resource_index/packages
+symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception/resource/sim_perception -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/share/ament_index/resource_index/packages
+symbolically linking /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/build/sim_perception/package.xml -> /home/xun/桌面/ros2_ws/ros2_ws/ros2_ws/percep_node+track/install/sim_perception/share/sim_perception
